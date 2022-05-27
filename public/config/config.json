@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x73632DE644e8fEd4273b42EaF41Fe57a923ed4a0",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x73632de644e8fed4273b42eaf41fe57a923ed4a0",
+  "NETWORK": {
+    "NAME": "Rinkeby Testnet",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Test LBG",
+  "SYMBOL": "LBG",
+  "MAX_SUPPLY": 250,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/test-2-lbg",
+  "SHOW_BACKGROUND": true
+}
